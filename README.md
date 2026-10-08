@@ -28,4 +28,3 @@ Grab the latest APK from the **[Releases](../../releases/latest)** page and inst
 
 من صفحة **[Releases](../../releases/latest)** — حمّل ملف الـ APK المناسب لجهازك (arm64-v8a لمعظم الأجهزة الحديثة) وثبّته مباشرة.
 
-<img width="502" height="222" alt="image" src="https://github.com/user-attachments/assets/d08fe87b-3e1e-4120-afbe-937b2efb8550" />
