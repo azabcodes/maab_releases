@@ -15,7 +15,7 @@ This repository only hosts release binaries for **Maab**, an Islamic companion a
 
 Grab the latest APK from the **[Releases](../../releases/latest)** page and install it on your Android device.
 
-<img width="502" height="222" alt="image" src="https://github.com/user-attachments/assets/d08fe87b-3e1e-4120-afbe-937b2efb8550" />
+<img width="292" height="342" alt="image" src="https://github.com/user-attachments/assets/6821982f-a56c-4eef-b56f-355dfead51e2" />
 
 ---
 
